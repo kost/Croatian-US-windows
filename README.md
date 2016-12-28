@@ -13,13 +13,18 @@ to push AltGr combination to work. Afterwords, AltGr combination works.
 
 ### Step by step installation
 
-Choose following item in Control Panel:
+Choose "Change keyboards or other input methods" in Control Panel:
+
 ![](/doc/control-panel.png)
 
-Choose Input language in Region and language:
+
+Choose "Keyboard and Languages" tab and "Change Keyboards" button:
+
 ![](/doc/region-and-language.png)
 
+
 Make sure you have selected Croatian US keyboard:
+
 ![](/doc/input-language-crous.png)
 
 ## Troubleshooting
