@@ -1,6 +1,14 @@
 # Croatian-US-windows
 
-CroUS keyboard for Windows
+CroUS keyboard for Windows operating systems.
+This is standard US keyboard layout where you get Croatian characters or layout by pressing AltGR (right Alt) key.
+In Linux, this keyboard is known as hr-US (in X11) or crous (in console).
+In short, Coders like it.
+
+Keyboard layout for different operating systems:
+[Croatian-US-linux](https://github.com/kost/Croatian-US-linux)
+[Croatian-US-windows](https://github.com/kost/Croatian-US-windows)
+[Croatian-US-mac](https://github.com/kost/Croatian-US-mac)
 
 ## Installation
 
