@@ -38,8 +38,16 @@ Make sure you have selected Croatian US keyboard:
 
 ## Troubleshooting
 
+*AltGr combination does not work*
+
 Sometimes AltGr combination does not work out of the box. You have to press Ctrl+Alt+some-croatian-letter in order
 to push AltGr combination to work. Afterwords, AltGr combination works. Wonderful world of MKLC deployment in short.
+
+
+*Support for Windows 10?*
+
+"Actually MKLC 1.4 files work fine with Windows 10.  Indeed, language bar disappears, after you change keyboard layout to the custom one. But, once  you log off and and then log on again the language bar re-appears, and everything works great. The only minor nuisance is that there is no preview in language settings, but I can happily live without that :)"
+from [Microsoft Answers](https://answers.microsoft.com/en-us/windows/forum/windows_10-hardware/custom-keyboard-layout-with-windows-10/b71c7905-1e30-4b0c-861b-253efd2b5a9e?auth=1)
 
 ## Building
 
